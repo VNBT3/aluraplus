@@ -1,2 +1,2 @@
 # aluraplus
-Mais um projeto feito em parceria com a Alura
+Mais um projeto desenvolvido e feito em parceria com a Alura.
